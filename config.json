@@ -6,16 +6,6 @@
       "height": 3955
     },
     {
-      "width": 2188,
-      "path": "./photos/Paris/DSC_0149-1.jpg",
-      "height": 3706
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Paris/DSC_0150-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 5951,
       "path": "./photos/Paris/DSC_0188-1.jpg",
       "height": 3928
@@ -29,24 +19,9 @@
       "width": 4000,
       "path": "./photos/Paris/DSC_0328-1-3.jpg",
       "height": 5210
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Paris/DSC_0338-1.jpg",
-      "height": 3507
     }
   ],
   "Amsterdam": [
-    {
-      "width": 5534,
-      "path": "./photos/Amsterdam/DSC_0125-1-2.jpg",
-      "height": 3781
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0131-1.jpg",
-      "height": 2542
-    },
     {
       "width": 6016,
       "path": "./photos/Amsterdam/DSC_0135-1.jpg",
@@ -74,11 +49,6 @@
     },
     {
       "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0191-1-2.jpg",
-      "height": 3948
-    },
-    {
-      "width": 6016,
       "path": "./photos/Amsterdam/DSC_0232-1.jpg",
       "height": 4000
     },
@@ -93,16 +63,6 @@
       "height": 3247
     },
     {
-      "width": 5109,
-      "path": "./photos/Amsterdam/DSC_0294-1.jpg",
-      "height": 3527
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0306-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 6016,
       "path": "./photos/Amsterdam/DSC_0312-1.jpg",
       "height": 4000
@@ -111,16 +71,6 @@
       "width": 6014,
       "path": "./photos/Amsterdam/DSC_0316-1.jpg",
       "height": 3899
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0319-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5990,
-      "path": "./photos/Amsterdam/DSC_0334-1.jpg",
-      "height": 3851
     }
   ],
   "Norway": [
@@ -135,11 +85,6 @@
       "height": 3786
     },
     {
-      "width": 5566,
-      "path": "./photos/Norway/DSC_0280-1-2.jpg",
-      "height": 3533
-    },
-    {
       "width": 5991,
       "path": "./photos/Norway/DSC_0327-1.jpg",
       "height": 3893
@@ -148,16 +93,6 @@
       "width": 3077,
       "path": "./photos/Norway/DSC_0356-1-3.jpg",
       "height": 2719
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0367-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5879,
-      "path": "./photos/Norway/DSC_0372-1.jpg",
-      "height": 3909
     },
     {
       "width": 5619,
@@ -175,24 +110,9 @@
       "height": 4000
     },
     {
-      "width": 5501,
-      "path": "./photos/Norway/DSC_0384-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0388-1-2.jpg",
-      "height": 4000
-    },
-    {
       "width": 6016,
       "path": "./photos/Norway/DSC_0420-1.jpg",
       "height": 4000
-    },
-    {
-      "width": 3202,
-      "path": "./photos/Norway/DSC_0445-1.jpg",
-      "height": 3789
     },
     {
       "width": 4000,
@@ -205,69 +125,14 @@
       "height": 3507
     },
     {
-      "width": 3924,
-      "path": "./photos/Norway/DSC_0587-1-3.jpg",
-      "height": 3949
-    },
-    {
       "width": 4000,
       "path": "./photos/Norway/DSC_0588-1.jpg",
       "height": 5283
     },
     {
-      "width": 4000,
-      "path": "./photos/Norway/DSC_0616-1.jpg",
-      "height": 4840
-    },
-    {
-      "width": 3283,
-      "path": "./photos/Norway/DSC_0636-1.jpg",
-      "height": 3608
-    },
-    {
-      "width": 5610,
-      "path": "./photos/Norway/DSC_0637-1.jpg",
-      "height": 3216
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0651-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0660-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0686-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 3113,
       "path": "./photos/Norway/DSC_0721-1-3.jpg",
       "height": 4000
-    },
-    {
-      "width": 2951,
-      "path": "./photos/Norway/DSC_0721-1-4.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0722-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0728-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 1809,
-      "path": "./photos/Norway/DSC_0752-1-5.jpg",
-      "height": 2631
     },
     {
       "width": 6015,
@@ -280,34 +145,9 @@
       "height": 3784
     },
     {
-      "width": 5721,
-      "path": "./photos/Norway/DSC_0754-1.jpg",
-      "height": 3784
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0791-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 5926,
       "path": "./photos/Norway/DSC_0794-1.jpg",
       "height": 4000
-    },
-    {
-      "width": 5623,
-      "path": "./photos/Norway/DSC_0799-1.jpg",
-      "height": 3739
-    },
-    {
-      "width": 5996,
-      "path": "./photos/Norway/DSC_0801-1.jpg",
-      "height": 3780
-    },
-    {
-      "width": 5887,
-      "path": "./photos/Norway/DSC_0802-1.jpg",
-      "height": 3694
     },
     {
       "width": 6016,
@@ -318,16 +158,6 @@
       "width": 5920,
       "path": "./photos/Norway/DSC_0808-1.jpg",
       "height": 3936
-    },
-    {
-      "width": 3058,
-      "path": "./photos/Norway/DSC_0820-1-2.jpg",
-      "height": 2607
-    },
-    {
-      "width": 5485,
-      "path": "./photos/Norway/DSC_0820-1-3.jpg",
-      "height": 3935
     },
     {
       "width": 4678,
@@ -353,11 +183,6 @@
       "width": 4217,
       "path": "./photos/Norway/DSC_0941-1-2.jpg",
       "height": 3535
-    },
-    {
-      "width": 5825,
-      "path": "./photos/Norway/DSC_0944-1.jpg",
-      "height": 3745
     }
   ],
   "San Francisco": [
@@ -380,11 +205,6 @@
       "width": 5257,
       "path": "./photos/San Francisco/20140326-DSC_0465-2.jpg",
       "height": 3167
-    },
-    {
-      "width": 5884,
-      "path": "./photos/San Francisco/20140328-DSC_0599.jpg",
-      "height": 3028
     },
     {
       "width": 6016,
@@ -424,11 +244,6 @@
   ],
   "Iceland": [
     {
-      "width": 3883,
-      "path": "./photos/Iceland/DSC_0011-1.jpg",
-      "height": 5840
-    },
-    {
       "width": 4517,
       "path": "./photos/Iceland/DSC_0012-1.jpg",
       "height": 3224
@@ -444,11 +259,6 @@
       "height": 4000
     },
     {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0028-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 3208,
       "path": "./photos/Iceland/DSC_0030-1.jpg",
       "height": 3322
@@ -459,49 +269,14 @@
       "height": 4000
     },
     {
-      "width": 2940,
-      "path": "./photos/Iceland/DSC_0048-1-2.jpg",
-      "height": 3472
-    },
-    {
       "width": 6015,
       "path": "./photos/Iceland/DSC_0053-1.jpg",
       "height": 2789
     },
     {
-      "width": 4504,
-      "path": "./photos/Iceland/DSC_0054-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5974,
-      "path": "./photos/Iceland/DSC_0059-1.jpg",
-      "height": 3604
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0064-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 3729,
       "path": "./photos/Iceland/DSC_0070-1.jpg",
       "height": 3657
-    },
-    {
-      "width": 4485,
-      "path": "./photos/Iceland/DSC_0072-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6015,
-      "path": "./photos/Iceland/DSC_0077-1.jpg",
-      "height": 3039
-    },
-    {
-      "width": 5975,
-      "path": "./photos/Iceland/DSC_0089-1.jpg",
-      "height": 3822
     },
     {
       "width": 6016,
@@ -519,23 +294,8 @@
       "height": 4000
     },
     {
-      "width": 5969,
-      "path": "./photos/Iceland/DSC_0115-1.jpg",
-      "height": 3660
-    },
-    {
       "width": 6016,
       "path": "./photos/Iceland/DSC_0121-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 2382,
-      "path": "./photos/Iceland/DSC_0129-1-2.jpg",
-      "height": 2691
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0131-1.jpg",
       "height": 4000
     },
     {
@@ -544,24 +304,9 @@
       "height": 3790
     },
     {
-      "width": 3850,
-      "path": "./photos/Iceland/DSC_0171-1-2.jpg",
-      "height": 5066
-    },
-    {
       "width": 5828,
       "path": "./photos/Iceland/DSC_0174-1.jpg",
       "height": 3875
-    },
-    {
-      "width": 3986,
-      "path": "./photos/Iceland/DSC_0179-1.jpg",
-      "height": 5206
-    },
-    {
-      "width": 5635,
-      "path": "./photos/Iceland/DSC_0199-1.jpg",
-      "height": 3934
     },
     {
       "width": 5921,
@@ -574,29 +319,14 @@
       "height": 3952
     },
     {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0230-1.jpg",
-      "height": 4000
-    },
-    {
       "width": 4607,
       "path": "./photos/Iceland/DSC_0252-1-4.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0256-1.jpg",
       "height": 4000
     },
     {
       "width": 4351,
       "path": "./photos/Iceland/DSC_0266-1.jpg",
       "height": 3592
-    },
-    {
-      "width": 5899,
-      "path": "./photos/Iceland/DSC_0307-1.jpg",
-      "height": 3656
     },
     {
       "width": 4000,
@@ -607,11 +337,6 @@
       "width": 3163,
       "path": "./photos/Iceland/DSC_0318-1-2.jpg",
       "height": 3830
-    },
-    {
-      "width": 4000,
-      "path": "./photos/Iceland/DSC_0327-1.jpg",
-      "height": 6016
     },
     {
       "width": 5766,
