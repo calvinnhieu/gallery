@@ -50,4 +50,4 @@ shuffle: false
 columns: 3
 
 # Integer: Max height for rows
-max_height: 300
+max_height: 600
