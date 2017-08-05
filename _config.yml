@@ -41,7 +41,7 @@ layout_style: COLUMNS
 # not remove the property.
 
 # Integer: Spacing between each photo
-spacing: 30
+spacing: 10
 
 # Boolean(true|false): Shuffle the photos in the album
 shuffle: false
