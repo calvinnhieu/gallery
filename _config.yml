@@ -28,10 +28,10 @@ baseurl: /
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: Calvin Nhieu's Gallery
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: Calvin Nhieu
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -41,13 +41,13 @@ layout_style: COLUMNS
 # not remove the property.
 
 # Integer: Spacing between each photo
-spacing: 10
+spacing: 30
 
 # Boolean(true|false): Shuffle the photos in the album
-shuffle: true
+shuffle: false
 
 # Integer: Number of columns for square or columns
 columns: 3
 
 # Integer: Max height for rows
-max_height: 600
+max_height: 300
