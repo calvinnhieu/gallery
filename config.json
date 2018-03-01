@@ -1,384 +1,606 @@
 {
   "Southwest US": [
     {
-      "width": 5870,
-      "path": "./photos/Southwest US/DSC_0016-1.jpg",
-      "height": 3506
-    },
-    {
-      "width": 5422,
-      "path": "./photos/Southwest US/DSC_0138-1.jpg",
-      "height": 2306
-    },
-    {
-      "width": 5981,
-      "path": "./photos/Southwest US/DSC_0037-1.jpg",
-      "height": 2810
-    },
-    {
-      "width": 5851,
-      "path": "./photos/Southwest US/DSC_0184-1.jpg",
-      "height": 3075
-    },
-    {
-      "width": 5815,
-      "path": "./photos/Southwest US/DSC_0053-1.jpg",
-      "height": 2881
-    },
-    {
+      "height": 3245,
+      "compressed_path": "./photos/Southwest US/DSC_0177-1.min.jpg",
       "width": 5896,
-      "path": "./photos/Southwest US/DSC_0177-1.jpg",
-      "height": 3245
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0177-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0177-1.jpg"
     },
     {
+      "height": 2881,
+      "compressed_path": "./photos/Southwest US/DSC_0053-1.min.jpg",
+      "width": 5815,
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0053-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0053-1.jpg"
+    },
+    {
+      "height": 3506,
+      "compressed_path": "./photos/Southwest US/DSC_0016-1.min.jpg",
+      "width": 5870,
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0016-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0016-1.jpg"
+    },
+    {
+      "height": 3712,
+      "compressed_path": "./photos/Southwest US/DSC_0032-1.min.jpg",
       "width": 5309,
-      "path": "./photos/Southwest US/DSC_0032-1.jpg",
-      "height": 3712
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0032-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0032-1.jpg"
     },
     {
-      "width": 6016,
-      "path": "./photos/Southwest US/DSC_0081-1.jpg",
-      "height": 3395
-    },
-    {
+      "height": 2841,
+      "compressed_path": "./photos/Southwest US/DSC_0235-1.min.jpg",
       "width": 5990,
-      "path": "./photos/Southwest US/DSC_0235-1.jpg",
-      "height": 2841
-    }
-  ],
-  "Norway": [
-    {
-      "width": 3036,
-      "path": "./photos/Norway/DSC_0867-1-3.jpg",
-      "height": 3332
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0235-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0235-1.jpg"
     },
     {
-      "width": 5619,
-      "path": "./photos/Norway/DSC_0374-1.jpg",
-      "height": 3841
+      "height": 2810,
+      "compressed_path": "./photos/Southwest US/DSC_0037-1.min.jpg",
+      "width": 5981,
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0037-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0037-1.jpg"
     },
     {
+      "height": 3395,
+      "compressed_path": "./photos/Southwest US/DSC_0081-1.min.jpg",
       "width": 6016,
-      "path": "./photos/Norway/DSC_0377-1-3.jpg",
-      "height": 3438
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0081-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0081-1.jpg"
     },
     {
-      "width": 4217,
-      "path": "./photos/Norway/DSC_0941-1-2.jpg",
-      "height": 3535
+      "height": 2306,
+      "compressed_path": "./photos/Southwest US/DSC_0138-1.min.jpg",
+      "width": 5422,
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0138-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0138-1.jpg"
     },
     {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0420-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 4357,
-      "path": "./photos/Norway/DSC_0754-1-2.jpg",
-      "height": 3784
-    },
-    {
-      "width": 5920,
-      "path": "./photos/Norway/DSC_0808-1.jpg",
-      "height": 3936
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Norway/DSC_0803-1-4.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6005,
-      "path": "./photos/Norway/DSC_0143-1.jpg",
-      "height": 3993
-    },
-    {
-      "width": 4678,
-      "path": "./photos/Norway/DSC_0834-1-2.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5991,
-      "path": "./photos/Norway/DSC_0327-1.jpg",
-      "height": 3893
-    },
-    {
-      "width": 4000,
-      "path": "./photos/Norway/DSC_0535-1.jpg",
-      "height": 4145
-    },
-    {
-      "width": 5501,
-      "path": "./photos/Norway/DSC_0384-1-3.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5926,
-      "path": "./photos/Norway/DSC_0794-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 4000,
-      "path": "./photos/Norway/DSC_0588-1.jpg",
-      "height": 5283
-    },
-    {
-      "width": 3113,
-      "path": "./photos/Norway/DSC_0721-1-3.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5919,
-      "path": "./photos/Norway/DSC_0554-1-2.jpg",
-      "height": 3507
-    },
-    {
-      "width": 4638,
-      "path": "./photos/Norway/DSC_0896-1-2.jpg",
-      "height": 3399
-    }
-  ],
-  "Iceland": [
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0034-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 4517,
-      "path": "./photos/Iceland/DSC_0012-1.jpg",
-      "height": 3224
-    },
-    {
-      "width": 4355,
-      "path": "./photos/Iceland/DSC_0097-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 4607,
-      "path": "./photos/Iceland/DSC_0252-1-4.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0053-1.jpg",
-      "height": 3693
-    },
-    {
-      "width": 5052,
-      "path": "./photos/Iceland/DSC_0016-1.jpg",
-      "height": 3414
-    },
-    {
-      "width": 3198,
-      "path": "./photos/Iceland/DSC_0220-1-2.jpg",
-      "height": 3952
-    },
-    {
-      "width": 5209,
-      "path": "./photos/Iceland/DSC_0383-1-2.jpg",
-      "height": 4000
-    },
-    {
-      "width": 5766,
-      "path": "./photos/Iceland/DSC_0373-1.jpg",
-      "height": 3834
-    },
-    {
-      "width": 3729,
-      "path": "./photos/Iceland/DSC_0070-1.jpg",
-      "height": 3657
-    },
-    {
-      "width": 3443,
-      "path": "./photos/Iceland/IMG_0110-1.jpg",
-      "height": 4378
-    },
-    {
-      "width": 4000,
-      "path": "./photos/Iceland/DSC_0316-1.jpg",
-      "height": 6016
-    },
-    {
-      "width": 4351,
-      "path": "./photos/Iceland/DSC_0266-1.jpg",
-      "height": 3592
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0091-1-2.jpg",
-      "height": 3819
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0121-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0023-1-6.jpg",
-      "height": 4000
-    },
-    {
-      "width": 6016,
-      "path": "./photos/Iceland/DSC_0107-1.jpg",
-      "height": 4000
-    },
-    {
-      "width": 2940,
-      "path": "./photos/Iceland/DSC_0048-1-2.jpg",
-      "height": 3472
-    },
-    {
-      "width": 5921,
-      "path": "./photos/Iceland/DSC_0200-1.jpg",
-      "height": 3767
+      "height": 3075,
+      "compressed_path": "./photos/Southwest US/DSC_0184-1.min.jpg",
+      "width": 5851,
+      "compressed": true,
+      "placeholder_path": "./photos/Southwest US/DSC_0184-1.placeholder.jpg",
+      "path": "./photos/Southwest US/DSC_0184-1.jpg"
     }
   ],
   "Paris": [
     {
+      "height": 3928,
+      "compressed_path": "./photos/Paris/DSC_0188-1.min.jpg",
       "width": 5951,
-      "path": "./photos/Paris/DSC_0188-1.jpg",
-      "height": 3928
+      "compressed": true,
+      "placeholder_path": "./photos/Paris/DSC_0188-1.placeholder.jpg",
+      "path": "./photos/Paris/DSC_0188-1.jpg"
     },
     {
+      "height": 3955,
+      "compressed_path": "./photos/Paris/DSC_0134-1.min.jpg",
       "width": 5880,
-      "path": "./photos/Paris/DSC_0134-1.jpg",
-      "height": 3955
+      "compressed": true,
+      "placeholder_path": "./photos/Paris/DSC_0134-1.placeholder.jpg",
+      "path": "./photos/Paris/DSC_0134-1.jpg"
     },
     {
+      "height": 3706,
+      "compressed_path": "./photos/Paris/DSC_0149-1.min.jpg",
       "width": 2188,
-      "path": "./photos/Paris/DSC_0149-1.jpg",
-      "height": 3706
+      "compressed": true,
+      "placeholder_path": "./photos/Paris/DSC_0149-1.placeholder.jpg",
+      "path": "./photos/Paris/DSC_0149-1.jpg"
     },
     {
+      "height": 5210,
+      "compressed_path": "./photos/Paris/DSC_0328-1-3.min.jpg",
       "width": 4000,
-      "path": "./photos/Paris/DSC_0328-1-3.jpg",
-      "height": 5210
+      "compressed": true,
+      "placeholder_path": "./photos/Paris/DSC_0328-1-3.placeholder.jpg",
+      "path": "./photos/Paris/DSC_0328-1-3.jpg"
     },
     {
+      "height": 6016,
+      "compressed_path": "./photos/Paris/DSC_0268-1.min.jpg",
       "width": 4000,
-      "path": "./photos/Paris/DSC_0268-1.jpg",
-      "height": 6016
+      "compressed": true,
+      "placeholder_path": "./photos/Paris/DSC_0268-1.placeholder.jpg",
+      "path": "./photos/Paris/DSC_0268-1.jpg"
+    }
+  ],
+  "Iceland": [
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0034-1.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0034-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0034-1.jpg"
+    },
+    {
+      "height": 3224,
+      "compressed_path": "./photos/Iceland/DSC_0012-1.min.jpg",
+      "width": 4517,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0012-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0012-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0097-1.min.jpg",
+      "width": 4355,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0097-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0097-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0252-1-4.min.jpg",
+      "width": 4607,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0252-1-4.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0252-1-4.jpg"
+    },
+    {
+      "height": 3693,
+      "compressed_path": "./photos/Iceland/DSC_0053-1.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0053-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0053-1.jpg"
+    },
+    {
+      "height": 3414,
+      "compressed_path": "./photos/Iceland/DSC_0016-1.min.jpg",
+      "width": 5052,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0016-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0016-1.jpg"
+    },
+    {
+      "height": 3952,
+      "compressed_path": "./photos/Iceland/DSC_0220-1-2.min.jpg",
+      "width": 3198,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0220-1-2.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0220-1-2.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0383-1-2.min.jpg",
+      "width": 5209,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0383-1-2.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0383-1-2.jpg"
+    },
+    {
+      "height": 3834,
+      "compressed_path": "./photos/Iceland/DSC_0373-1.min.jpg",
+      "width": 5766,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0373-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0373-1.jpg"
+    },
+    {
+      "height": 3657,
+      "compressed_path": "./photos/Iceland/DSC_0070-1.min.jpg",
+      "width": 3729,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0070-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0070-1.jpg"
+    },
+    {
+      "height": 4378,
+      "compressed_path": "./photos/Iceland/IMG_0110-1.min.jpg",
+      "width": 3443,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/IMG_0110-1.placeholder.jpg",
+      "path": "./photos/Iceland/IMG_0110-1.jpg"
+    },
+    {
+      "height": 6016,
+      "compressed_path": "./photos/Iceland/DSC_0316-1.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0316-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0316-1.jpg"
+    },
+    {
+      "height": 3592,
+      "compressed_path": "./photos/Iceland/DSC_0266-1.min.jpg",
+      "width": 4351,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0266-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0266-1.jpg"
+    },
+    {
+      "height": 3819,
+      "compressed_path": "./photos/Iceland/DSC_0091-1-2.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0091-1-2.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0091-1-2.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0121-1.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0121-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0121-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0023-1-6.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0023-1-6.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0023-1-6.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Iceland/DSC_0107-1.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0107-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0107-1.jpg"
+    },
+    {
+      "height": 3472,
+      "compressed_path": "./photos/Iceland/DSC_0048-1-2.min.jpg",
+      "width": 2940,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0048-1-2.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0048-1-2.jpg"
+    },
+    {
+      "height": 3767,
+      "compressed_path": "./photos/Iceland/DSC_0200-1.min.jpg",
+      "width": 5921,
+      "compressed": true,
+      "placeholder_path": "./photos/Iceland/DSC_0200-1.placeholder.jpg",
+      "path": "./photos/Iceland/DSC_0200-1.jpg"
     }
   ],
   "Amsterdam": [
     {
+      "height": 3247,
+      "compressed_path": "./photos/Amsterdam/DSC_0254-1-2-1-3.min.jpg",
       "width": 5464,
-      "path": "./photos/Amsterdam/DSC_0254-1-2-1-3.jpg",
-      "height": 3247
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0254-1-2-1-3.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0254-1-2-1-3.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/Amsterdam/DSC_0168-1.min.jpg",
       "width": 4480,
-      "path": "./photos/Amsterdam/DSC_0168-1.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0168-1.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0168-1.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/Amsterdam/DSC_0232-1.min.jpg",
       "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0232-1.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0232-1.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0232-1.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/Amsterdam/DSC_0312-1.min.jpg",
       "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0312-1.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0312-1.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0312-1.jpg"
     },
     {
+      "height": 3617,
+      "compressed_path": "./photos/Amsterdam/DSC_0136-1-2.min.jpg",
       "width": 3617,
-      "path": "./photos/Amsterdam/DSC_0136-1-2.jpg",
-      "height": 3617
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0136-1-2.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0136-1-2.jpg"
     },
     {
+      "height": 2964,
+      "compressed_path": "./photos/Amsterdam/DSC_0135-1.min.jpg",
       "width": 6016,
-      "path": "./photos/Amsterdam/DSC_0135-1.jpg",
-      "height": 2964
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0135-1.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0135-1.jpg"
     },
     {
+      "height": 3899,
+      "compressed_path": "./photos/Amsterdam/DSC_0316-1.min.jpg",
       "width": 6014,
-      "path": "./photos/Amsterdam/DSC_0316-1.jpg",
-      "height": 3899
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0316-1.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0316-1.jpg"
     },
     {
+      "height": 3652,
+      "compressed_path": "./photos/Amsterdam/DSC_0158-1-FOUR.min.jpg",
       "width": 3541,
-      "path": "./photos/Amsterdam/DSC_0158-1-FOUR.jpg",
-      "height": 3652
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0158-1-FOUR.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0158-1-FOUR.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/Amsterdam/DSC_0165-1.min.jpg",
       "width": 5813,
-      "path": "./photos/Amsterdam/DSC_0165-1.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0165-1.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0165-1.jpg"
     },
     {
+      "height": 3657,
+      "compressed_path": "./photos/Amsterdam/DSC_0241-1-1-3.min.jpg",
       "width": 5060,
-      "path": "./photos/Amsterdam/DSC_0241-1-1-3.jpg",
-      "height": 3657
+      "compressed": true,
+      "placeholder_path": "./photos/Amsterdam/DSC_0241-1-1-3.placeholder.jpg",
+      "path": "./photos/Amsterdam/DSC_0241-1-1-3.jpg"
     }
   ],
   "San Francisco": [
     {
+      "height": 3338,
+      "compressed_path": "./photos/San Francisco/20140214-DSC_0081.min.jpg",
       "width": 1660,
-      "path": "./photos/San Francisco/20140214-DSC_0081.jpg",
-      "height": 3338
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140214-DSC_0081.placeholder.jpg",
+      "path": "./photos/San Francisco/20140214-DSC_0081.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/San Francisco/20140119-DSC_0281.min.jpg",
       "width": 6016,
-      "path": "./photos/San Francisco/20140119-DSC_0281.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140119-DSC_0281.placeholder.jpg",
+      "path": "./photos/San Francisco/20140119-DSC_0281.jpg"
     },
     {
+      "height": 3919,
+      "compressed_path": "./photos/San Francisco/20140430-DSC_0215-2.min.jpg",
       "width": 4392,
-      "path": "./photos/San Francisco/20140430-DSC_0215-2.jpg",
-      "height": 3919
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140430-DSC_0215-2.placeholder.jpg",
+      "path": "./photos/San Francisco/20140430-DSC_0215-2.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/San Francisco/20140405-DSC_0837.min.jpg",
       "width": 6016,
-      "path": "./photos/San Francisco/20140405-DSC_0837.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140405-DSC_0837.placeholder.jpg",
+      "path": "./photos/San Francisco/20140405-DSC_0837.jpg"
     },
     {
+      "height": 5230,
+      "compressed_path": "./photos/San Francisco/DSC_0835-1.min.jpg",
       "width": 3705,
-      "path": "./photos/San Francisco/DSC_0835-1.jpg",
-      "height": 5230
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/DSC_0835-1.placeholder.jpg",
+      "path": "./photos/San Francisco/DSC_0835-1.jpg"
     },
     {
+      "height": 3868,
+      "compressed_path": "./photos/San Francisco/20140413-DSC_0170.min.jpg",
       "width": 6011,
-      "path": "./photos/San Francisco/20140413-DSC_0170.jpg",
-      "height": 3868
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140413-DSC_0170.placeholder.jpg",
+      "path": "./photos/San Francisco/20140413-DSC_0170.jpg"
     },
     {
+      "height": 4000,
+      "compressed_path": "./photos/San Francisco/DSC_0845-1.min.jpg",
       "width": 4908,
-      "path": "./photos/San Francisco/DSC_0845-1.jpg",
-      "height": 4000
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/DSC_0845-1.placeholder.jpg",
+      "path": "./photos/San Francisco/DSC_0845-1.jpg"
     },
     {
+      "height": 3167,
+      "compressed_path": "./photos/San Francisco/20140326-DSC_0465-2.min.jpg",
       "width": 5257,
-      "path": "./photos/San Francisco/20140326-DSC_0465-2.jpg",
-      "height": 3167
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140326-DSC_0465-2.placeholder.jpg",
+      "path": "./photos/San Francisco/20140326-DSC_0465-2.jpg"
     },
     {
+      "height": 3347,
+      "compressed_path": "./photos/San Francisco/20140406-DSC_0980.min.jpg",
       "width": 5306,
-      "path": "./photos/San Francisco/20140406-DSC_0980.jpg",
-      "height": 3347
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140406-DSC_0980.placeholder.jpg",
+      "path": "./photos/San Francisco/20140406-DSC_0980.jpg"
     },
     {
+      "height": 3027,
+      "compressed_path": "./photos/San Francisco/DSC_066.min.jpg",
       "width": 6016,
-      "path": "./photos/San Francisco/DSC_066.jpg",
-      "height": 3027
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/DSC_066.placeholder.jpg",
+      "path": "./photos/San Francisco/DSC_066.jpg"
     },
     {
+      "height": 2003,
+      "compressed_path": "./photos/San Francisco/20140119-DSC_0460.min.jpg",
       "width": 5665,
-      "path": "./photos/San Francisco/20140119-DSC_0460.jpg",
-      "height": 2003
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140119-DSC_0460.placeholder.jpg",
+      "path": "./photos/San Francisco/20140119-DSC_0460.jpg"
     },
     {
+      "height": 3867,
+      "compressed_path": "./photos/San Francisco/20140405-DSC_0912.min.jpg",
       "width": 5412,
-      "path": "./photos/San Francisco/20140405-DSC_0912.jpg",
-      "height": 3867
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/20140405-DSC_0912.placeholder.jpg",
+      "path": "./photos/San Francisco/20140405-DSC_0912.jpg"
     },
     {
+      "height": 3886,
+      "compressed_path": "./photos/San Francisco/DSC_0322-1.min.jpg",
       "width": 3973,
-      "path": "./photos/San Francisco/DSC_0322-1.jpg",
-      "height": 3886
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco/DSC_0322-1.placeholder.jpg",
+      "path": "./photos/San Francisco/DSC_0322-1.jpg"
+    }
+  ],
+  "Norway": [
+    {
+      "height": 3332,
+      "compressed_path": "./photos/Norway/DSC_0867-1-3.min.jpg",
+      "width": 3036,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0867-1-3.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0867-1-3.jpg"
+    },
+    {
+      "height": 3841,
+      "compressed_path": "./photos/Norway/DSC_0374-1.min.jpg",
+      "width": 5619,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0374-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0374-1.jpg"
+    },
+    {
+      "height": 3438,
+      "compressed_path": "./photos/Norway/DSC_0377-1-3.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0377-1-3.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0377-1-3.jpg"
+    },
+    {
+      "height": 3535,
+      "compressed_path": "./photos/Norway/DSC_0941-1-2.min.jpg",
+      "width": 4217,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0941-1-2.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0941-1-2.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Norway/DSC_0420-1.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0420-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0420-1.jpg"
+    },
+    {
+      "height": 3784,
+      "compressed_path": "./photos/Norway/DSC_0754-1-2.min.jpg",
+      "width": 4357,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0754-1-2.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0754-1-2.jpg"
+    },
+    {
+      "height": 3936,
+      "compressed_path": "./photos/Norway/DSC_0808-1.min.jpg",
+      "width": 5920,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0808-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0808-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Norway/DSC_0803-1-4.min.jpg",
+      "width": 6016,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0803-1-4.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0803-1-4.jpg"
+    },
+    {
+      "height": 3993,
+      "compressed_path": "./photos/Norway/DSC_0143-1.min.jpg",
+      "width": 6005,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0143-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0143-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Norway/DSC_0834-1-2.min.jpg",
+      "width": 4678,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0834-1-2.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0834-1-2.jpg"
+    },
+    {
+      "height": 3893,
+      "compressed_path": "./photos/Norway/DSC_0327-1.min.jpg",
+      "width": 5991,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0327-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0327-1.jpg"
+    },
+    {
+      "height": 4145,
+      "compressed_path": "./photos/Norway/DSC_0535-1.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0535-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0535-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Norway/DSC_0384-1-3.min.jpg",
+      "width": 5501,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0384-1-3.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0384-1-3.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Norway/DSC_0794-1.min.jpg",
+      "width": 5926,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0794-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0794-1.jpg"
+    },
+    {
+      "height": 5283,
+      "compressed_path": "./photos/Norway/DSC_0588-1.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0588-1.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0588-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Norway/DSC_0721-1-3.min.jpg",
+      "width": 3113,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0721-1-3.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0721-1-3.jpg"
+    },
+    {
+      "height": 3507,
+      "compressed_path": "./photos/Norway/DSC_0554-1-2.min.jpg",
+      "width": 5919,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0554-1-2.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0554-1-2.jpg"
+    },
+    {
+      "height": 3399,
+      "compressed_path": "./photos/Norway/DSC_0896-1-2.min.jpg",
+      "width": 4638,
+      "compressed": true,
+      "placeholder_path": "./photos/Norway/DSC_0896-1-2.placeholder.jpg",
+      "path": "./photos/Norway/DSC_0896-1-2.jpg"
     }
   ]
 }
